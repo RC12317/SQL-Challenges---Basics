@@ -30,9 +30,13 @@ This repository contains MySQL practice questions and solutions that I have been
 # Project Structure
 /mysql-practice
  
- ├── questions and solutions.sql #(MySQL practice questions and solutions) 
+ ├── questions and solutions.sql
  
- └── README.md               (Project documentation)
+ #MySQL practice questions and solutions 
+ 
+ └── README.md 
+ 
+ #Project documentation
 
 # Requirements
 •	MySQL (or MySQL-compatible database)
